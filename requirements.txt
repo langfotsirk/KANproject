@@ -8,3 +8,5 @@ tqdm==4.66.2
 pandas==2.0.1
 seaborn
 pyyaml
+ipympl
+
